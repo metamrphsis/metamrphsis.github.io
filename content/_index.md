@@ -63,6 +63,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Software Engineer
+          company: Euclid Robotics
+          company_url: 'http://www.euclidrobotics.com'
+          # company_logo: org-gc
+          location: California
+          date_start: '2024-07-01'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Robotics Instructor
           company: Ustar Robotics Lab
           company_url: 'https://www.loveustar.com/ustar-robotics-lab/'

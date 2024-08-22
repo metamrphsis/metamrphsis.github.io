@@ -48,11 +48,22 @@ education:
 skills:
   - name: Technical
     items:
+      - name: C
+        description: ''
+        percent: 100
+        icon: c
+        icon_pack: fab
+      - name: C++
+        description: ''
+        percent: 100
+        icon: code
+        icon_pack: fas
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
+      
       # - name: Data Science
       #   description: ''
       #   percent: 100
@@ -60,23 +71,29 @@ skills:
       #   icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 100
         icon: database
         icon_pack: fas
+      - name: Linux
+        description: ''
+        percent: 100
+        icon: linux
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Cats - Ziggy and Zappa
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
+      - name: Hiking
+        description: ''
+        percent: 100
+        icon: person-hiking
+        icon_pack: fas
+      
       # - name: Photography
       #   description: ''
       #   percent: 80
