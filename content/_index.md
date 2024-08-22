@@ -63,27 +63,57 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Robotics Instructor
+          company: Ustar Robotics Lab
+          company_url: 'https://www.loveustar.com/ustar-robotics-lab/'
+          # company_logo: org-gc
+          location: Cupertino, CA
+          date_start: '2024-07-08'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: STEM/Coding Teacher
+          company: Ustar Education
+          company_url: 'https://www.loveustar.com/'
+          # company_logo: org-gc
+          location: Cupertino, CA
+          date_start: '2024-07-08'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Teaching Assistant
+          company: University of California - Santa Cruz
+          company_url: 'https://www.ucsc.edu/'
+          company_logo: org-ucsc
+          location: Santa Cruz, CA
+          date_start: '2023-01-01'
+          date_end: ''
+          # date_end: '2020-12-31'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Undergraduate Class Tutor
+          company: University of California - Santa Cruz
+          company_url: 'https://www.ucsc.edu/'
+          company_logo: org-ucsc
+          location: Santa Cruz, CA
+          date_start: '2023-01-01'
+          date_end: '2023-12-31'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Software Engineering Intern, Cratus Technology
+          company: Cratus Technology
+          company_url: 'https://www.cratustech.com/'
+          # company_logo: org-ucsc
+          location: San Jose, CA
+          date_start: '2021-03-01'
+          date_end: '2021-05-31'
+          # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -99,33 +129,164 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://coursera.org/share/c702cb2c3bf12efd7089aeac72f2913a
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2020-08-20'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Programming Fundamentals
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://coursera.org/share/c958a4c150630cfa56c5c94841599d78
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2020-08-10'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Object-Oriented Data Structures in C++
           url: ''
+        - certificate_url: https://coursera.org/share/86a226cce27c6979f60816f4e80288ee
+          date_end: ''
+          date_start: '2020-08-17'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Using Python to Interact with the Operating System
+          url: ''
+        - certificate_url: https://coursera.org/share/145372411ef7c8ceee64715599ac3fc1
+          date_end: ''
+          date_start: '2022-08-02'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Database Design and Basic SQL in PostgreSQL
+          url: ''
+        - certificate_url: https://coursera.org/share/333b53a73727cc66081a1d59d13f5496
+          date_end: ''
+          date_start: '2018-03-13'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Using Databases with Python
+          url: ''
+        - certificate_url: https://coursera.org/share/1dffb3495c106b57e8a4c89ae2cb84f1
+          date_end: ''
+          date_start: '2020-08-03'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Crash Course on Python
+          url: ''
+        
+
+
+        - certificate_url: https://coursera.org/share/af09b7fe25ff0d00635477959c10c075
+          date_end: ''
+          date_start: '2022-08-11'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Intermediate PostgreSQL
+          url: ''
+        
+
+        - certificate_url: https://coursera.org/share/43d47576bb63c97ff64b9adec341e55c
+          date_end: ''
+          date_start: '2020-07-28'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Technical Support Fundamentals
+          url: ''
+        
+
+        - certificate_url: https://coursera.org/share/227febad5da53e8fd17409b4bba4da59
+          date_end: ''
+          date_start: '2020-08-25'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Algorithms, Data Collection, and Starting to Code
+          url: ''
+        
+
+        - certificate_url: https://coursera.org/share/6117cf363036ac21f89f2489ab6686d6
+          date_end: ''
+          date_start: '2020-07-27'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Mathematics for Machine Learning - Linear Algebra
+          url: ''
+        
+        - certificate_url: https://coursera.org/share/506cd2cd608cd12bc95f54dbd0743875
+          date_end: ''
+          date_start: '2018-03-02'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Using Python to Access Web Data
+          url: ''
+        
+        - certificate_url: https://coursera.org/share/9c4694d8d01681fdf878c33cfe73e8e3
+          date_end: ''
+          date_start: '2018-02-21'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Python Data Structures
+          url: ''
+        
+        - certificate_url: https://coursera.org/share/d9f05ec41427cc6de4003e651065b1af
+          date_end: ''
+          date_start: '2018-02-16'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Programming for Everybody (Getting Started with Python)
+          url: ''
+        
+        - certificate_url: https://www.udemy.com/certificate/UC-OL5RRPW3/
+          date_end: ''
+          date_start: '2018-03-11'
+          description: ''
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com
+          title: ROS Basics - Program Robots!
+          url: ''
+
+        # - certificate_url: https://www.edx.org
+        #   date_end: ''
+        #   date_start: '2021-01-01'
+        #   description: Formulated informed blockchain models, hypotheses, and use cases.
+        #   icon: edx
+        #   organization: edX
+        #   organization_url: https://www.edx.org
+        #   title: Blockchain Fundamentals
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   
