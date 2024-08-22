@@ -69,7 +69,7 @@ skills:
       #   percent: 100
       #   icon: chart-line
       #   icon_pack: fas
-      - name: SQL
+      - name: PostgreSQL - PL/pgSQL
         description: ''
         percent: 100
         icon: database
@@ -79,6 +79,16 @@ skills:
         percent: 100
         icon: linux
         icon_pack: fab
+      - name: Unix
+        description: ''
+        percent: 100
+        icon: server
+        icon_pack: fas
+      - name: Robot Operating System (ROS)
+        description: ''
+        percent: 100
+        icon: robot
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
