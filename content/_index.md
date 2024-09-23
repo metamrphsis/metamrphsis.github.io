@@ -320,15 +320,17 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        # - name: Deep Learning
+        #   tag: Deep Learning
+        - name: Robotics
+          tag: K-Means Algorithm
         - name: Other
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
-      # For Showcase view, flip alternate rows?
+      # For Showcase view, flip alrternate rows?
       flip_alt_rows: false
   
   # - block: markdown
